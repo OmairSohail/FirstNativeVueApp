@@ -1,7 +1,7 @@
 # FirstNativeVueApp
 
 
-<DockLayout stretchLastChild="true" backgroundColor="#3c495e">
+<!-- <DockLayout stretchLastChild="true" backgroundColor="#3c495e">
   <Label text="left" dock="left" width="40" backgroundColor="#43b883"/>
   <Label text="top" dock="top" height="40" backgroundColor="#289062"/>
   <Label text="right" dock="right" width="40" backgroundColor="#43b883"/>
@@ -28,4 +28,4 @@
   <Label text="second" width="30%" height="30%" backgroundColor="#1c6b48"/>
   <Label text="third" width="30%" height="30%" backgroundColor="#289062"/>
   <Label text="fourth" width="30%" height="30%" backgroundColor="#289062"/>
-</WrapLayout>
+</WrapLayout> -->
